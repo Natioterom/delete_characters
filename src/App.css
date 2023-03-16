@@ -1,0 +1,87 @@
+
+body{
+    background-color: #1E1E1E;
+    color:white
+}
+/* Define el estilo de cada letra del abecedario en mayúscula */
+.A {
+    background-color: #f8c9c9; /* color de fondo */
+  }
+  .B {
+    background-color: #f8cfb3; /* color de fondo */
+  }
+  .C {
+    background-color: #f7d6a0; /* color de fondo */
+  }
+  .D {
+    background-color: #f5d78e; /* color de fondo */
+  }
+  .E {
+    background-color: #f2dd7c; /* color de fondo */
+  }
+  .F {
+    background-color: #ecdf74; /* color de fondo */
+  }
+  .G {
+    background-color: #d5df6c; /* color de fondo */
+  }
+  .H {
+    background-color: #badf64; /* color de fondo */
+  }
+  .I {
+    background-color: #9fdf5c; /* color de fondo */
+  }
+  .J {
+    background-color: #7edf54; /* color de fondo */
+  }
+  .K {
+    background-color: #5edf4c; /* color de fondo */
+  }
+  .L {
+    background-color: #48e443; /* color de fondo */
+  }
+  .M {
+    background-color: #2be43e; /* color de fondo */
+  }
+  .N {
+    background-color: #2ee49a; /* color de fondo */
+  }
+  .Ñ {
+    background-color: #abb448; /* color de fondo */
+  }
+  .O {
+    background-color: #31e4d4; /* color de fondo */
+  }
+  .P {
+    background-color: #34dfe4; /* color de fondo */
+  }
+  .Q {
+    background-color: #3da3e4; /* color de fondo */
+  }
+  .R {
+    background-color: #b1e6d1; /* color de fondo */
+  }
+  .S {
+    background-color: #d4b4b4; /* color de fondo */
+  }
+  .T {
+    background-color: #efb1c1; /* color de fondo */
+  }
+  .U {
+    background-color: #f2af96; /* color de fondo */
+  }
+  .V {
+    background-color: #f2b371; /* color de fondo */
+  }
+  .W {
+    background-color: #f4b34f; /* color de fondo */
+  }
+  .X {
+    background-color: #f5b82e; /* color de fondo */
+  }
+  .Y {
+    background-color: #f6bd0f; /* color de fondo */
+  }
+  .Z {
+    background-color: #f9c408; /* color de fondo */
+  }
