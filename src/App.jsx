@@ -11,8 +11,8 @@ function App() {
     <div className="App">
       <Routes>
         <Route path='/' element={ <FormWord 
-        imgBanner='src/assets/img/banner.svg'
-        imgForm='src/assets/img/lupa.png'/> } />
+        imgBanner='public/img/banner.svg'
+        imgForm='public/img/lupa.png'/> } />
         <Route path='/result' element={ <Result /> } />
       </Routes>
      
