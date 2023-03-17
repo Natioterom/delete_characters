@@ -12,7 +12,7 @@ function App() {
       <Routes>
         <Route path='/' element={ <FormWord 
         imgBanner={('assets/banner.svg')}
-        imgForm='https://photos.google.com/search/_tra_/photo/AF1QipPWTPbHaFEYeMMneVCuDNp31i-H6KRve_PY8rVc'/> } />
+        imgForm={('assets/lupa.png')}/> } />
         <Route path='/result' element={ <Result /> } />
       </Routes>
      
