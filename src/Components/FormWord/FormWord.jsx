@@ -37,10 +37,10 @@ const submitWord = (e) => {
     return(
         <article className='container-form-word'>
             <h1 className='title-container-form'>Duplicate Character <span className='span-form-word'>Remover</span></h1>
-            <div className='container-word-form-img'>
-                <img src={imgBanner} alt='banner-form'  />
+            <div className='container-word-form'>
+                <img src={imgBanner} alt='banner-form' className='img-banner' />
             <div className='container-form'>
-            <img src={imgForm} alt='img-form' />
+            <img src={imgForm} alt='img-form' className='img-form' />
                 <form className='form-word' onSubmit={submitWord}>
                     <input className='input-form-word' 
                     placeholder='Enter a word' 
