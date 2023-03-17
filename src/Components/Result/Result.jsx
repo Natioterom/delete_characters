@@ -75,7 +75,7 @@ const backPage = () => {
                 </div>
                 <div className='container-title-label'>
                 <p>Final word</p>
-                <label className='label-initial-word'>{characters}</label>
+                <label className='label-final-word'>{characters}</label>
                 </div>
             </div>
             <button className='button-cards-back' onClick={backPage}>Back</button></>
